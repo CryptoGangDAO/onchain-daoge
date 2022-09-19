@@ -1,13 +1,3 @@
-# Sample Hardhat Project
+# CryptoGang DAOge
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
+CoDAOs & Unincorporated Nonprofit Associations. Our mission is to level up our world to a new paradigm of peaceful, prosperous, & sustainable coordination between humans via opt-in web3 solutions.
